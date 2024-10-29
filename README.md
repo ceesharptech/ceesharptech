@@ -3,8 +3,8 @@
 <p><em>Sofware Engineer<a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>3rd Year CS Student at <a href="https://www.calebuniversity.edu.ng/">Caleb University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: EniolaAmusu](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://x.com/officialennygee)
-[![Linkedin: EniolaAmusu](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eniolamusu/)](https://www.linkedin.com/in/eniolamusu/)
+[![Twitter: EniolaAmusu](https://img.shields.io/twitter/follow/EniolaAmusu?style=social)](https://x.com/officialennygee)
+[![Linkedin: EniolaAmusu](https://img.shields.io/badge/-eniolaamusu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eniolamusu/)](https://www.linkedin.com/in/eniolamusu/)
 [![GitHub ceesharptech](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ceesharptech/)
 
 
