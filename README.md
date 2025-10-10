@@ -1,5 +1,5 @@
 <h2> Hi, I'm Eniola, you can call me CeeSharp <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ5amR4MjJuZ2NhbzZjcGR2bHRvbXAxd3A0ZWJpaDFpZm1jMWpidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="230">
 <p><em>Sofware Engineer<a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>3rd Year CS Student at <a href="https://www.calebuniversity.edu.ng/">Caleb University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -8,7 +8,7 @@
 [![GitHub ceesharptech](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ceesharptech/)
 
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ5amR4MjJuZ2NhbzZjcGR2bHRvbXAxd3A0ZWJpaDFpZm1jMWpidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const eniola = {
