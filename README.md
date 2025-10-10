@@ -19,7 +19,7 @@ const eniola = {
   techCommunities: {
                         host: GDSC Caleb University
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Building an AI Startup"
 }
 ```
 
